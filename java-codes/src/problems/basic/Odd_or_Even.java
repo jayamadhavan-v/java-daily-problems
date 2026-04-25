@@ -2,6 +2,8 @@ package problems.basic;
 
 import java.util.*;
 
+// day 1
+
 public class Odd_or_Even {
     public static void main(String[] args) {
         int n = new Scanner(System.in).nextInt();
